@@ -3,7 +3,7 @@ result = 1
 string = ''
 
 
-with open("13adj.txt") as file:
+with open("prob-8.txt") as file:
     for line in file:
         string = string + line
 
